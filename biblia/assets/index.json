@@ -1,0 +1,27 @@
+{
+  "db_version": 1,
+  "translations": [
+    {
+      "id": "blivre_n4",
+      "name": "Bíblia Livre (Texto Crítico)",
+      "short_name": "BLIV-N4_2018.2.0",
+      "language": "pt-BR",
+      "description": "Baseada nos manuscritos mais antigos (Texto Crítico). Linguagem fluida e atual.",
+      "author": "Projeto Bíblia Livre (BLIVRE)",
+      "size_in_mb": 7.12,
+      "db_version": 1,
+      "download_url": "https://raw.githubusercontent.com/doseuamigobr/site-institucional/main/biblia/assets/bliv_n4.db"
+    },
+    {
+      "id": "blivre_tr",
+      "name": "Bíblia Livre (Textus Receptus)",
+      "short_name": "BLIV-TR_2018.2.0",
+      "language": "pt-BR",
+      "description": "Baseada nos manuscritos tradicionais (Textus Receptus). Mesma base textual da Almeida.",
+      "author": "Projeto Bíblia Livre (BLIVRE)",
+      "size_in_mb": 2.9,
+      "db_version": 1,
+      "download_url": "https://raw.githubusercontent.com/doseuamigobr/site-institucional/main/biblia/assets/bliv_tr.db"
+    }
+  ]
+}
